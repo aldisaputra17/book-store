@@ -20,6 +20,10 @@ This service is built with Go.
 - Gin Gonic (framework)
 - JWT
 
+## Postman Documentation
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/16404807-2dd94ce8-d495-441c-98e1-970e6bf51fea?action=collection%2Ffork&collection-url=entityId%3D16404807-2dd94ce8-d495-441c-98e1-970e6bf51fea%26entityType%3Dcollection%26workspaceId%3D9722961b-ee27-4ce6-abf2-564c90301265)
+
 ## Run Code in lokal
 ```
 local database setup based on environment variable
